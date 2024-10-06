@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinaunicom
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||10010.com^
+||114menhu.com^
+||chinaunicom.com^
+||mychinaunicom.com^
+||wo.cn^
+||wo116114.com^
+||10010.com.cn^
+||chinaunicom.com.cn^
+||wo.com.cn^
+||chinaunicom.com.hk^
+||chinaunicomglobal.com^
+||cuniq.com^
